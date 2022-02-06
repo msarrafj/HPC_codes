@@ -1,0 +1,21 @@
+# dmidecode 3.0
+Getting SMBIOS data from sysfs.
+SMBIOS 2.8 present.
+
+Handle 0x0021, DMI type 3, 21 bytes
+Chassis Information
+	Manufacturer: HP
+	Type: Multi-system
+	Lock: Not Present
+	Version: Not Specified
+	Serial Number: USE5501JPN
+	Asset Tag:                                 
+	Boot-up State: Safe
+	Power Supply State: Safe
+	Thermal State: Safe
+	Security Status: Unknown
+	OEM Information: 0x00000000
+	Height: 2 U
+	Number Of Power Cords: 2
+	Contained Elements: 0
+

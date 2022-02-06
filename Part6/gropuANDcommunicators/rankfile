@@ -1,0 +1,4 @@
+rank 0=host0 slot=1:0
+rank 1=host1 slot=1:1
+rank 2=host2 slot=2:0
+rank 3=host3 slot=1:1

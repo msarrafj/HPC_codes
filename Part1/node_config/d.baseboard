@@ -1,0 +1,52 @@
+# dmidecode 3.0
+Getting SMBIOS data from sysfs.
+SMBIOS 2.8 present.
+
+Handle 0x0020, DMI type 2, 17 bytes
+Base Board Information
+	Manufacturer: HP
+	Product Name: ProLiant XL170r Gen9
+	Version: Not Specified
+	Serial Number: USE5501JRW
+	Asset Tag:                                 
+	Features:
+		Board is a hosting board
+		Board is removable
+		Board is replaceable
+	Location In Chassis: Node 1
+	Chassis Handle: 0x0000
+	Type: Motherboard
+	Contained Object Handles: 0
+
+Handle 0x0092, DMI type 41, 11 bytes
+Onboard Device
+	Reference Designation: Embedded LOM 1 Port 1
+	Type: Ethernet
+	Status: Enabled
+	Type Instance: 1
+	Bus Address: 0000:02:00.0
+
+Handle 0x0093, DMI type 41, 11 bytes
+Onboard Device
+	Reference Designation: Embedded LOM 1 Port 2
+	Type: Ethernet
+	Status: Enabled
+	Type Instance: 2
+	Bus Address: 0000:02:00.1
+
+Handle 0x0094, DMI type 41, 11 bytes
+Onboard Device
+	Reference Designation: Embedded SATA Controller #1
+	Type: SATA Controller
+	Status: Enabled
+	Type Instance: 1
+	Bus Address: 0000:00:1f.2
+
+Handle 0x0095, DMI type 41, 11 bytes
+Onboard Device
+	Reference Designation: Embedded SATA Controller #2
+	Type: SATA Controller
+	Status: Disabled
+	Type Instance: 2
+	Bus Address: 0000:00:11.4
+

@@ -1,0 +1,50 @@
+Size 	 dest=2 	 dest=4 	 dest=8 	 dest=16 	 dest32 	 dest56
+Size 	 dest=2 	 dest=4 	 dest=8 	 dest=16 	 dest32 	 dest56
+size of data is 1000000 B
+1000000 	1000000 	broadcasting ...
+Broadcast 2 processes
+Reduce 2 processes
+Broadcast 4 processes
+Reduce 4 processes
+Broadcast 8 processes
+Reduce 8 processes
+Broadcast 16 processes
+Reduce 16 processes
+Broadcast 32 processes
+Reduce 32 processes
+Broadcast 56 processes
+Reduce 56 processes
+
+
+size of data is 10000000 B
+10000000 	10000000 	broadcasting ...
+Broadcast 2 processes
+Reduce 2 processes
+Broadcast 4 processes
+Reduce 4 processes
+Broadcast 8 processes
+Reduce 8 processes
+Broadcast 16 processes
+Reduce 16 processes
+Broadcast 32 processes
+Reduce 32 processes
+Broadcast 56 processes
+Reduce 56 processes
+
+
+size of data is 100000000 B
+100000000 	100000000 	broadcasting ...
+Broadcast 2 processes
+Reduce 2 processes
+Broadcast 4 processes
+Reduce 4 processes
+Broadcast 8 processes
+Reduce 8 processes
+Broadcast 16 processes
+Reduce 16 processes
+Broadcast 32 processes
+Reduce 32 processes
+Broadcast 56 processes
+Reduce 56 processes
+
+

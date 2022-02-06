@@ -1,0 +1,24 @@
+size of dx is 100
+run for 1 procs
+run for 2 procs
+run for 4 procs
+run for 8 procs
+run for 16 procs
+run for 32 procs
+run for 56 procs
+size of dx is 100000
+run for 1 procs
+run for 2 procs
+run for 4 procs
+run for 8 procs
+run for 16 procs
+run for 32 procs
+run for 56 procs
+size of dx is 100000000
+run for 1 procs
+run for 2 procs
+run for 4 procs
+run for 8 procs
+run for 16 procs
+run for 32 procs
+run for 56 procs

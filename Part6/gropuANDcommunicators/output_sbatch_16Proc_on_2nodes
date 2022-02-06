@@ -1,0 +1,18 @@
+Run for 16 procs
+Global rank= 0, Group rank= 0, recvbuf= 28
+Global rank= 1, Group rank= 1, recvbuf= 28
+Global rank= 2, Group rank= 2, recvbuf= 28
+Global rank= 3, Group rank= 3, recvbuf= 28
+Global rank= 4, Group rank= 4, recvbuf= 28
+Global rank= 5, Group rank= 5, recvbuf= 28
+Global rank= 6, Group rank= 6, recvbuf= 28
+Global rank= 7, Group rank= 7, recvbuf= 28
+Global rank= 8, Group rank= 0, recvbuf= 92
+Global rank= 9, Group rank= 1, recvbuf= 92
+Global rank= 10, Group rank= 2, recvbuf= 92
+Global rank= 11, Group rank= 3, recvbuf= 92
+Global rank= 12, Group rank= 4, recvbuf= 92
+Global rank= 13, Group rank= 5, recvbuf= 92
+Global rank= 14, Group rank= 6, recvbuf= 92
+Global rank= 15, Group rank= 7, recvbuf= 92
+-----------------------------------------

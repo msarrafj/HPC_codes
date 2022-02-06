@@ -1,0 +1,128 @@
+Size 	 Eventname 	  vecmul 	 ExeTime 	 Desc 	 P1Power 	 dramPower
+500 	 PAPI_L1_DCM 		15981	782	Level_1_data_cache_misses_____Level_1	0.339660J	0.043941J
+500 	 PAPI_L1_ICM 		247	748	Level_1_instruction_cache_misses_____Level_1		
+500 	 PAPI_L1_TCM 		16388	729	Level_1_cache_misses______Level_1		
+500 	 PAPI_L1_LDM 		880	738	Level_1_load_misses______Level_1		
+500 	 PAPI_L1_STM 		383	734	Level_1_store_misses______Level_1		
+500 	 PAPI_L2_DCM 		727	689	Level_2_data_cache_misses_____Level_2		
+500 	 PAPI_L2_ICM 		287	741	Level_2_instruction_cache_misses_____Level_2		
+500 	 PAPI_L2_TCM 		1218	707	Level_2_cache_misses______Level_2		
+500 	 PAPI_L2_LDM 		428	718	Level_2_load_misses______Level_2		
+500 	 PAPI_L2_STM 		11	714	Level_2_store_misses______Level_2		
+500 	 PAPI_L3_TCM 		16	705	Level_3_cache_misses______Level_3		
+500 	 PAPI_L3_LDM 		0	700	Level_3_load_misses______Level_3		
+500 	 PAPI_L3_DCA 		1155	707	Level_3_data_cache_accesses_____Level_3		
+500 	 PAPI_L3_DCR 		1471	730	Level_3_data_cache_reads_____Level_3		
+500 	 PAPI_L3_DCW 		12	705	Level_3_data_cache_writes_____Level_3		
+Size 	 Eventname 	  vecmul 	 ExeTime 	 Desc 	 P1Power 	 dramPower
+1000 	 PAPI_L1_DCM 		63104	2883	Level_1_data_cache_misses_____Level_1	0.709898J	0.094447J
+1000 	 PAPI_L1_ICM 		260	2798	Level_1_instruction_cache_misses_____Level_1		
+1000 	 PAPI_L1_TCM 		63394	2801	Level_1_cache_misses______Level_1		
+1000 	 PAPI_L1_LDM 		2532	2785	Level_1_load_misses______Level_1		
+1000 	 PAPI_L1_STM 		449	2820	Level_1_store_misses______Level_1		
+1000 	 PAPI_L2_DCM 		2762	2796	Level_2_data_cache_misses_____Level_2		
+1000 	 PAPI_L2_ICM 		221	2866	Level_2_instruction_cache_misses_____Level_2		
+1000 	 PAPI_L2_TCM 		3057	2798	Level_2_cache_misses______Level_2		
+1000 	 PAPI_L2_LDM 		1202	2798	Level_2_load_misses______Level_2		
+1000 	 PAPI_L2_STM 		14	2880	Level_2_store_misses______Level_2		
+1000 	 PAPI_L3_TCM 		21	2800	Level_3_cache_misses______Level_3		
+1000 	 PAPI_L3_LDM 		1	2859	Level_3_load_misses______Level_3		
+1000 	 PAPI_L3_DCA 		2272	2799	Level_3_data_cache_accesses_____Level_3		
+1000 	 PAPI_L3_DCR 		2661	3065	Level_3_data_cache_reads_____Level_3		
+1000 	 PAPI_L3_DCW 		16	2787	Level_3_data_cache_writes_____Level_3		
+Size 	 Eventname 	  vecmul 	 ExeTime 	 Desc 	 P1Power 	 dramPower
+1500 	 PAPI_L1_DCM 		141498	6278	Level_1_data_cache_misses_____Level_1	1.393307J	0.179117J
+1500 	 PAPI_L1_ICM 		255	6288	Level_1_instruction_cache_misses_____Level_1		
+1500 	 PAPI_L1_TCM 		141797	6281	Level_1_cache_misses______Level_1		
+1500 	 PAPI_L1_LDM 		5949	6293	Level_1_load_misses______Level_1		
+1500 	 PAPI_L1_STM 		957	6281	Level_1_store_misses______Level_1		
+1500 	 PAPI_L2_DCM 		4743	6273	Level_2_data_cache_misses_____Level_2		
+1500 	 PAPI_L2_ICM 		174	6287	Level_2_instruction_cache_misses_____Level_2		
+1500 	 PAPI_L2_TCM 		6097	6299	Level_2_cache_misses______Level_2		
+1500 	 PAPI_L2_LDM 		2580	6273	Level_2_load_misses______Level_2		
+1500 	 PAPI_L2_STM 		13	6274	Level_2_store_misses______Level_2		
+1500 	 PAPI_L3_TCM 		43	6339	Level_3_cache_misses______Level_3		
+1500 	 PAPI_L3_LDM 		2	6282	Level_3_load_misses______Level_3		
+1500 	 PAPI_L3_DCA 		4458	6274	Level_3_data_cache_accesses_____Level_3		
+1500 	 PAPI_L3_DCR 		4703	6280	Level_3_data_cache_reads_____Level_3		
+1500 	 PAPI_L3_DCW 		16	6278	Level_3_data_cache_writes_____Level_3		
+Size 	 Eventname 	  vecmul 	 ExeTime 	 Desc 	 P1Power 	 dramPower
+2000 	 PAPI_L1_DCM 		251661	11227	Level_1_data_cache_misses_____Level_1	2.221429J	0.268469J
+2000 	 PAPI_L1_ICM 		302	11219	Level_1_instruction_cache_misses_____Level_1		
+2000 	 PAPI_L1_TCM 		252079	11231	Level_1_cache_misses______Level_1		
+2000 	 PAPI_L1_LDM 		10759	11264	Level_1_load_misses______Level_1		
+2000 	 PAPI_L1_STM 		1532	11219	Level_1_store_misses______Level_1		
+2000 	 PAPI_L2_DCM 		10431	11246	Level_2_data_cache_misses_____Level_2		
+2000 	 PAPI_L2_ICM 		221	11232	Level_2_instruction_cache_misses_____Level_2		
+2000 	 PAPI_L2_TCM 		9659	11248	Level_2_cache_misses______Level_2		
+2000 	 PAPI_L2_LDM 		4807	11504	Level_2_load_misses______Level_2		
+2000 	 PAPI_L2_STM 		12	11227	Level_2_store_misses______Level_2		
+2000 	 PAPI_L3_TCM 		256	11235	Level_3_cache_misses______Level_3		
+2000 	 PAPI_L3_LDM 		11	11269	Level_3_load_misses______Level_3		
+2000 	 PAPI_L3_DCA 		9782	11225	Level_3_data_cache_accesses_____Level_3		
+2000 	 PAPI_L3_DCR 		9469	11222	Level_3_data_cache_reads_____Level_3		
+2000 	 PAPI_L3_DCW 		17	11219	Level_3_data_cache_writes_____Level_3		
+Size 	 Eventname 	  vecmul 	 ExeTime 	 Desc 	 P1Power 	 dramPower
+2500 	 PAPI_L1_DCM 		397477	17455	Level_1_data_cache_misses_____Level_1	3.445425J	0.413972J
+2500 	 PAPI_L1_ICM 		265	17452	Level_1_instruction_cache_misses_____Level_1		
+2500 	 PAPI_L1_TCM 		397561	17442	Level_1_cache_misses______Level_1		
+2500 	 PAPI_L1_LDM 		16934	17481	Level_1_load_misses______Level_1		
+2500 	 PAPI_L1_STM 		2405	17470	Level_1_store_misses______Level_1		
+2500 	 PAPI_L2_DCM 		14344	17434	Level_2_data_cache_misses_____Level_2		
+2500 	 PAPI_L2_ICM 		194	17440	Level_2_instruction_cache_misses_____Level_2		
+2500 	 PAPI_L2_TCM 		13354	17439	Level_2_cache_misses______Level_2		
+2500 	 PAPI_L2_LDM 		6864	17923	Level_2_load_misses______Level_2		
+2500 	 PAPI_L2_STM 		14	17440	Level_2_store_misses______Level_2		
+2500 	 PAPI_L3_TCM 		1739	17443	Level_3_cache_misses______Level_3		
+2500 	 PAPI_L3_LDM 		59	17417	Level_3_load_misses______Level_3		
+2500 	 PAPI_L3_DCA 		13454	18638	Level_3_data_cache_accesses_____Level_3		
+2500 	 PAPI_L3_DCR 		15929	18175	Level_3_data_cache_reads_____Level_3		
+2500 	 PAPI_L3_DCW 		14	17458	Level_3_data_cache_writes_____Level_3		
+Size 	 Eventname 	  vecmul 	 ExeTime 	 Desc 	 P1Power 	 dramPower
+3000 	 PAPI_L1_DCM 		572258	25493	Level_1_data_cache_misses_____Level_1	5.222643J	0.579120J
+3000 	 PAPI_L1_ICM 		426	25595	Level_1_instruction_cache_misses_____Level_1		
+3000 	 PAPI_L1_TCM 		579810	25223	Level_1_cache_misses______Level_1		
+3000 	 PAPI_L1_LDM 		27526	25221	Level_1_load_misses______Level_1		
+3000 	 PAPI_L1_STM 		3395	25181	Level_1_store_misses______Level_1		
+3000 	 PAPI_L2_DCM 		21786	25185	Level_2_data_cache_misses_____Level_2		
+3000 	 PAPI_L2_ICM 		185	25218	Level_2_instruction_cache_misses_____Level_2		
+3000 	 PAPI_L2_TCM 		19894	25195	Level_2_cache_misses______Level_2		
+3000 	 PAPI_L2_LDM 		9695	25240	Level_2_load_misses______Level_2		
+3000 	 PAPI_L2_STM 		12	25207	Level_2_store_misses______Level_2		
+3000 	 PAPI_L3_TCM 		9982	25236	Level_3_cache_misses______Level_3		
+3000 	 PAPI_L3_LDM 		313	25493	Level_3_load_misses______Level_3		
+3000 	 PAPI_L3_DCA 		19759	25465	Level_3_data_cache_accesses_____Level_3		
+3000 	 PAPI_L3_DCR 		20533	25351	Level_3_data_cache_reads_____Level_3		
+3000 	 PAPI_L3_DCW 		11	25215	Level_3_data_cache_writes_____Level_3		
+Size 	 Eventname 	  vecmul 	 ExeTime 	 Desc 	 P1Power 	 dramPower
+4000 	 PAPI_L1_DCM 		1043800	45431	Level_1_data_cache_misses_____Level_1	8.309732J	0.961544J
+4000 	 PAPI_L1_ICM 		280	45452	Level_1_instruction_cache_misses_____Level_1		
+4000 	 PAPI_L1_TCM 		1057526	44868	Level_1_cache_misses______Level_1		
+4000 	 PAPI_L1_LDM 		58925	45110	Level_1_load_misses______Level_1		
+4000 	 PAPI_L1_STM 		6698	44815	Level_1_store_misses______Level_1		
+4000 	 PAPI_L2_DCM 		35856	45246	Level_2_data_cache_misses_____Level_2		
+4000 	 PAPI_L2_ICM 		149	44892	Level_2_instruction_cache_misses_____Level_2		
+4000 	 PAPI_L2_TCM 		37670	45352	Level_2_cache_misses______Level_2		
+4000 	 PAPI_L2_LDM 		16748	44936	Level_2_load_misses______Level_2		
+4000 	 PAPI_L2_STM 		19	45005	Level_2_store_misses______Level_2		
+4000 	 PAPI_L3_TCM 		33423	45175	Level_3_cache_misses______Level_3		
+4000 	 PAPI_L3_LDM 		390	44834	Level_3_load_misses______Level_3		
+4000 	 PAPI_L3_DCA 		38600	44910	Level_3_data_cache_accesses_____Level_3		
+4000 	 PAPI_L3_DCR 		35478	44927	Level_3_data_cache_reads_____Level_3		
+4000 	 PAPI_L3_DCW 		19	45048	Level_3_data_cache_writes_____Level_3		
+Size 	 Eventname 	  vecmul 	 ExeTime 	 Desc 	 P1Power 	 dramPower
+5000 	 PAPI_L1_DCM 		3106789	70166	Level_1_data_cache_misses_____Level_1	12.865201J	1.380381J
+5000 	 PAPI_L1_ICM 		384	70481	Level_1_instruction_cache_misses_____Level_1		
+5000 	 PAPI_L1_TCM 		2776507	70367	Level_1_cache_misses______Level_1		
+5000 	 PAPI_L1_LDM 		105390	70347	Level_1_load_misses______Level_1		
+5000 	 PAPI_L1_STM 		10209	70592	Level_1_store_misses______Level_1		
+5000 	 PAPI_L2_DCM 		58687	70574	Level_2_data_cache_misses_____Level_2		
+5000 	 PAPI_L2_ICM 		176	70444	Level_2_instruction_cache_misses_____Level_2		
+5000 	 PAPI_L2_TCM 		53518	70350	Level_2_cache_misses______Level_2		
+5000 	 PAPI_L2_LDM 		24536	70676	Level_2_load_misses______Level_2		
+5000 	 PAPI_L2_STM 		14	70463	Level_2_store_misses______Level_2		
+5000 	 PAPI_L3_TCM 		57636	70210	Level_3_cache_misses______Level_3		
+5000 	 PAPI_L3_LDM 		489	69924	Level_3_load_misses______Level_3		
+5000 	 PAPI_L3_DCA 		60961	70452	Level_3_data_cache_accesses_____Level_3		
+5000 	 PAPI_L3_DCR 		53308	70125	Level_3_data_cache_reads_____Level_3		
+5000 	 PAPI_L3_DCW 		22	70485	Level_3_data_cache_writes_____Level_3		

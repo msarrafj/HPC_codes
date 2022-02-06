@@ -1,0 +1,19 @@
+# dmidecode 3.0
+Getting SMBIOS data from sysfs.
+SMBIOS 2.8 present.
+
+Handle 0x0009, DMI type 1, 27 bytes
+System Information
+	Manufacturer: HP
+	Product Name: ProLiant XL170r Gen9
+	Version: Not Specified
+	Serial Number: USE5501JRW
+	UUID: 31383937-3535-5355-4535-3530314A5257
+	Wake-up Type: Power Switch
+	SKU Number: 798155-B21
+	Family: ProLiant
+
+Handle 0x0090, DMI type 32, 11 bytes
+System Boot Information
+	Status: No errors detected
+

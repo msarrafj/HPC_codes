@@ -1,0 +1,10 @@
+Run for 16 procs
+[r556:12343] *** An error occurred in MPI_Allreduce
+[r556:12343] *** reported by process [4290576385,4]
+[r556:12343] *** on communicator MPI_COMM_WORLD
+[r556:12343] *** MPI_ERR_COMM: invalid communicator
+[r556:12343] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[r556:12343] ***    and potentially your MPI job)
+[r556.pvt.bridges.psc.edu:12327] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[r556.pvt.bridges.psc.edu:12327] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+-----------------------------------------

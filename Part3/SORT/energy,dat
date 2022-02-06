@@ -1,0 +1,40 @@
+[?1049h[?1h=[1;40r[34l[34h[?25h[23m[24m[0m[H[J[?25l[40;1H"resultA.dat" 112L, 8342C[1;1HSize     Eventname[8Csorted[9CExeTime[9CDesc    P1Power[9CdramPower
+5000     PAPI_L1_DCM[12C679     671     Level_1_data_cache_misses_____Level_1   0.223083J[7C0.029667J
+5000     PAPI_L1_ICM[12C127     607     Level_1_instruction_cache_misses_____Level_1
+5000     PAPI_L1_TCM[12C927     662     Level_1_cache_misses______Level_1
+5000     PAPI_L1_LDM[12C339     650     Level_1_load_misses______Level_1
+5000     PAPI_L1_STM[12C193     621     Level_1_store_misses______Level_1
+5000     PAPI_L2_DCM[12C114     631     Level_2_data_cache_misses_____Level_2
+5000     PAPI_L2_ICM[12C54      578     Level_2_instruction_cache_misses_____Level_2
+5000     PAPI_L2_TCM[12C244     639     Level_2_cache_misses______Level_2
+5000     PAPI_L2_LDM[12C98      641     Level_2_load_misses______Level_2
+5000     PAPI_L2_STM[12C2[7C702     Level_2_store_misses______Level_2
+5000     PAPI_L3_TCM[12C5[7C642     Level_3_cache_misses______Level_3
+5000     PAPI_L3_LDM[12C0[7C593     Level_3_load_misses______Level_3
+5000     PAPI_L3_DCA[12C100     581     Level_3_data_cache_accesses_____Level_3
+5000     PAPI_L3_DCR[12C114     590     Level_3_data_cache_reads_____Level_3
+5000     PAPI_L3_DCW[12C1[7C661     Level_3_data_cache_writes_____Level_3
+Size     Eventname[8Csorted[9CExeTime[9CDesc    P1Power[9CdramPower
+25000    PAPI_L1_DCM[12C5480    3523    Level_1_data_cache_misses_____Level_1   0.395202J[7C0.050689J
+25000    PAPI_L1_ICM[12C415     3643    Level_1_instruction_cache_misses_____Level_1
+25000    PAPI_L1_TCM[12C6268    3541    Level_1_cache_misses______Level_1
+25000    PAPI_L1_LDM[12C2439    3440    Level_1_load_misses______Level_1
+25000    PAPI_L1_STM[12C4156    3441    Level_1_store_misses______Level_1
+25000    PAPI_L2_DCM[12C783     3444    Level_2_data_cache_misses_____Level_2
+25000    PAPI_L2_ICM[12C262     3433    Level_2_instruction_cache_misses_____Level_2
+25000    PAPI_L2_TCM[12C865     4002    Level_2_cache_misses______Level_2
+25000    PAPI_L2_LDM[12C337     3411    Level_2_load_misses______Level_2
+25000    PAPI_L2_STM[12C2[7C3675    Level_2_store_misses______Level_2
+25000    PAPI_L3_TCM[12C11      3570    Level_3_cache_misses______Level_3
+25000    PAPI_L3_LDM[12C0[7C3499    Level_3_load_misses______Level_3
+25000    PAPI_L3_DCA[12C675     3421    Level_3_data_cache_accesses_____Level_3
+25000    PAPI_L3_DCR[12C680     3665    Level_3_data_cache_reads_____Level_3
+25000    PAPI_L3_DCW[12C5[7C3475    Level_3_data_cache_writes_____Level_3
+Size     Eventname[8Csorted[9CExeTime[9CDesc    P1Power[9CdramPower
+125000   PAPI_L1_DCM[12C52895   19586   Level_1_data_cache_misses_____Level_1   1.338986J[7C0.144601J
+125000   PAPI_L1_ICM[12C537     19685   Level_1_instruction_cache_misses_____Level_1
+125000   PAPI_L1_TCM[12C52299   19788   Level_1_cache_misses______Level_1
+125000   PAPI_L1_LDM[12C18451   19671   Level_1_load_misses______Level_1
+125000   PAPI_L1_STM[12C44360   19729   Level_1_store_misses______Level_1
+125000   PAPI_L2_DCM[12C3407    19828   Level_2_data_cache_misses_____Level_2[40;111H3,1[11CTop[3;1H[34h[?25h[40;1H
+[?1l>[?1049l
